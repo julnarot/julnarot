@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Julnarot:  Raul Jonatan.
 
-- 🔭 I'm currently working like to centers senior developer at *NTT DATA PERÚ*.
-- 🌱 I'm currently learning about authentication and authorization protocol for web applications.
+- 🔭 I'm currently working like to centers senior developer.
+- 🌱 I'm currently learning restful api in node js.
 - 🤔 I’m looking for help with improving my good practices to write clean, simple, elegant code so that it can be easy to read and therefore improve.
 - 💬 Ask me about _SPA applications_, _RESTful_.
 - :eyes: I’m interested in ✨genetic algorithms✨.

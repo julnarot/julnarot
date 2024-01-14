@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Julnarot:  Raul Jonatan.
 
 - 🔭 I'm currently working like to centers senior developer.
-- 🌱 I am currently learning backend in node js and improving code quality with SonarQube in angular applications.
+- 🌱 I am currently learning backend in lumen-php  and improving code quality with code review.
 - 🤔 I’m looking for help with improving my good practices to write clean, simple, elegant code so that it can be easy to read and therefore improve.
 - 💬 Ask me about _SPA applications_, _RESTful_.
 - :eyes: I’m interested in ✨genetic algorithms✨.

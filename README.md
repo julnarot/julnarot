@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Julnarot:  Raul Jonatan.
+### Hi there 👋, I'm Raul Jonatan.
 
-- 🔭 I'm currently working like to centers senior developer at NTT DATA.
-- 🌱 I am currently learning about Thymeleaf and Jquery.
+- 🔭 I'm not working at the moment. Vacation mode (🌞 🌊 🌴🍹😴🧳)
+- 🌱 I am currently learning about flask, react and llm frameworks 😎.
 - 🤔 I’m looking for help with improving my good practices to write clean, simple, elegant code so that it can be easy to read and therefore improve.
 - 💬 Ask me about _SPA applications_, _RESTful_.
 - :eyes: I’m interested in ✨genetic algorithms✨.

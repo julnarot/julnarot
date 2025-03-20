@@ -1,4 +1,4 @@
-<img align="right" height="490em" style="border-radius: 50% !important;" src="https://github.com/julnarot/general-public-assets/blob/main/profile_img/avatar_grok_003-removebg.png?raw=true"/>
+<img align="right" height="360em" style="border-radius: 50% !important;" src="https://github.com/julnarot/general-public-assets/blob/main/profile_img/avatar_grok_003-removebg.png?raw=true"/>
 
 <h1 align="left">
   Hi there!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Raul Jonatan

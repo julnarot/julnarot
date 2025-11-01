@@ -9,11 +9,6 @@
 
 - 🎓 Bachelor of Systems Engineering
 
-- 🚀 Now I'm in vacation mode (🌞 🌊 🌴🍹😴🧳)
+- 🚀 Now I'm in Freelance Web Developer (Available for job openings)
 
 - 🌐 More at: [julnarot.github.io](https://julnarot.github.io)
-
-<br>
-
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=julnarot&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,10 +5,10 @@
 </h1>
 
 
-- 💻 Full stack engineering
+- 💻 Full Stack Engineer | AI Solutions | Web & Systems Design | AI Solutions | Tech Mentor
 
 - 🎓 Bachelor of Systems Engineering
 
-- 🚀 Now I'm in Freelance Web Developer (Available for job openings)
+- 🚀 Available for freelance & consulting
 
 - 🌐 More at: [julnarot.github.io](https://julnarot.github.io)

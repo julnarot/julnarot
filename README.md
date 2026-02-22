@@ -5,7 +5,7 @@
 </h1>
 
 
-- 💻 Full Stack Engineer | AI Solutions | Web & Systems Design | AI Solutions | Tech Mentor
+- 💻 Full Stack Engineer | AI Solutions | Web & Systems Design | Tech Mentor
 
 - 🎓 Bachelor of Systems Engineering
 
